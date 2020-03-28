@@ -1,3 +1,5 @@
+### Tutorial of matrix factorization using package 'recosystem'.
+
 library(recosystem)
 
 set.seed(123) # This is a randomized algorithm
