@@ -27,3 +27,5 @@
 
 ### Model-based vs memory-based algorithms?
 # http://www.cs.carleton.edu/cs_comps/0607/recommend/recommender/modelbased.html 
+
+### TEST: Ändrar texten i branch adding_info
